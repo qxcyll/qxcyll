@@ -1,32 +1,15 @@
 <h1>Gabriel M.</h1>
  
- <h3>
-  <img src="./assets/icons/user-white.svg" width=17>
-  About Me 
-  <img src="./assets/icons/user-black.svg" width=20>
- </h3>
-
 <div align="justify">
 	
-I’m a student of `Systems Analysis and Development` at the `UNNIASELVI`.  
-My journey in technology started: at the age of 18.
-At 19, I discovered my creative side, which also fueled my passion for interfaces and visual aesthetics.
-When I turned 21 and entered college, I fully dove into programming.  
-Since then, I have been dedicating my time to studying development in depth, with a special focus on `Fullstack Web Development`.
+I’m a Passionate <b>Systems Analysis and Development</b> student at <b>UNIASSELVI</b>, with a strong interest in technology, design, and problem-solving.
 
 </div>
 
-<!-- A Little More About Me -->
- <h3>
-  <img src="./assets/icons/bookmark-white.svg" width=17>
-  Summary 
-  <img src="./assets/icons/bookmark-black.svg" width=20>
- </h3>
- 
-  - 👨‍💻 Skilled in Python, applying it in practical projects and studies.
-  - 🌱 Currently learning JavaScript (Full Stack) for web development.
-  - 🤓 Studying Systems Analysis and Development at UNIASSELVI RJ.
-  - ✉️ gabrielpaschoal53@gmail.com
+ - 👨‍💻 Skilled in **Python**, applying it in practical projects and studies.  
+ - 🌱 Currently learning **JavaScript (Full Stack)** for web development.  
+ - 🤓 Studying **Systems Analysis and Development** at UNIASSELVI RJ.  
+ - ✉️ Reach me at: **gabrielpaschoal53@gmail.com**
 
 <h3>
  <img src="./assets/icons/stack-white.svg" width=17>
@@ -58,5 +41,4 @@ Since then, I have been dedicating my time to studying development in depth, wit
 		<h1>Gabriel M.</h1>
 	</a>
 </div>
-
 -->
