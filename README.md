@@ -22,7 +22,6 @@ At 19, I discovered my creative side, which also fueled my passion for interface
 
 When I turned 21 and entered college, I fully dove into programming.  
 Since then, I have been dedicating my time to studying development in depth, with a special focus on `Fullstack Web Development`.  
-Although I study the complete ecosystem, my real strength and the area I enjoy exploring the most is `Front-End`, where I can combine logic, creativity, and design.
 
 <!-- A Little More About Me -->
  <h3>
