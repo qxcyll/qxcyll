@@ -1,4 +1,12 @@
 <h1>Gabriel M.</h1>
+ 
+ <h3>
+  <img src="./assets/icons/user-white.svg" width=17>
+  About Me 
+  <img src="./assets/icons/user-black.svg" width=20>
+ </h3>
+
+<div align="justify">
 	
 I’m a student of `Systems Analysis and Development` at the `UNNIASELVI`.  
 My journey in technology started: at the age of 18.
@@ -6,13 +14,14 @@ At 19, I discovered my creative side, which also fueled my passion for interface
 When I turned 21 and entered college, I fully dove into programming.  
 Since then, I have been dedicating my time to studying development in depth, with a special focus on `Fullstack Web Development`.
 
-<!-- A Little More About Me -->
+</div>
 
- <h4>
-  <img src="./assets/icons/user-white.svg" width=15>
+<!-- A Little More About Me -->
+ <h3>
+  <img src="./assets/icons/bookmark-white.svg" width=17>
   Summary 
-  <img src="./assets/icons/user-black.svg" width=15>
- </h4>
+  <img src="./assets/icons/bookmark-black.svg" width=20>
+ </h3>
  
   - 👨‍💻 Skilled in Python, applying it in practical projects and studies.
   - 🌱 Currently learning JavaScript (Full Stack) for web development.
