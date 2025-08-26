@@ -6,7 +6,7 @@
     Please, leave a star on my README it would truly make my day :)
     GitHub: https://github.com/qxcyll
 -->
-<h1 align="center">👨‍💻 Gabriel M.</h1>
+<h1 align="center">Gabriel M.</h1>
  
 <div align="justify">
 	
