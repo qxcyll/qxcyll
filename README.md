@@ -6,11 +6,7 @@
     Please, leave a star on my README it would truly make my day :)
     GitHub: https://github.com/qxcyll
 -->
-<div>
-	<a href="https://JVLsx.github.io">
-		<h1>Gabriel M.</h1>
-	</a>
-</div>
+<h1>Gabriel M.</h1>
  
 <div align="justify">
 	
