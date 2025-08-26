@@ -14,7 +14,7 @@
   <img src="./assets/icons/user-black.svg" width=15>
  </h3>
 
-<div align="justify">
+<div>
 
 I’m a student of `Systems Analysis and Development` at the `UNNIASELVI`.  
 My journey in technology started: at the age of 18.</br>
