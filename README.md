@@ -1,4 +1,12 @@
-<h1>Gabriel M.</h1>
+<!--
+    Dear user using my README as a base
+    to create your own, I’m happy to authorize its use 
+    and I’m glad you liked it! I just kindly ask for one thing:
+
+    Please, leave a star on my README it would truly make my day :)
+    GitHub: https://github.com/qxcyll
+-->
+<h1 align="center">👨‍💻 Gabriel M.</h1>
  
 <div align="justify">
 	
@@ -28,14 +36,6 @@ I’m a Passionate <b>Systems Analysis and Development</b> student at <b>UNIASSE
 <div>
 
 *"A prática leva à perfeição!"*
-<!--
-    Dear user using my README as a base
-    to create your own, I’m happy to authorize its use 
-    and I’m glad you liked it! I just kindly ask for one thing:
-
-    Please, leave a star on my README it would truly make my day :)
-    GitHub: https://github.com/qxcyll
--->
 
 <!--
 
