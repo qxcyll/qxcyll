@@ -1,17 +1,59 @@
+<!--
+    Dear user using my README as a base
+    to create your own, I’m happy to authorize its use 
+    and I’m glad you liked it! I just kindly ask for one thing:
 
+    Please, leave a star on my README it would truly make my day :)
+    GitHub: https://github.com/qxcyll
+-->
 <h1>Gabriel M.</h1>
 
-  - 👨‍💻 Possuo conhecimento na linguagem **Python**;
-  - 🌱 Atualmente estudando Javascript com foco em Full Stack;
-  - 🤓 Cursando Análise e Desenvolvimento de Sistemas | UNIASSELVI RJ
+ <h3>
+  <img src="./assets/icons/user-white.svg" width=15>
+  About Me 
+  <img src="./assets/icons/user-black.svg" width=15>
+ </h3>
+
+<div align="justify">
+
+I’m a student of `Systems Analysis and Development` at the `UNNIASELVI`.  
+My journey in technology started: at the age of 18.</br>
+At 19, I discovered my creative side, which also fueled my passion for interfaces and visual aesthetics.
+
+When I turned 21 and entered college, I fully dove into programming.  
+Since then, I have been dedicating my time to studying development in depth, with a special focus on `Fullstack Web Development`.  
+Although I study the complete ecosystem, my real strength and the area I enjoy exploring the most is `Front-End`, where I can combine logic, creativity, and design.
+
+ <h3>
+  <img src="./assets/icons/bookmark-white.svg" width=15>
+  My Goal 
+  <img src="./assets/icons/bookmark-black.svg" width=15>
+ </h3>
+
+To become a Full Stack Developer, building complete applications by combining backend and frontend development, with a strong focus on best practices and continuous learning.
+
+<!-- A Little More About Me -->
+ <h3>
+  <img src="./assets/icons/user-white.svg" width=15>
+  A Little More About Me 
+  <img src="./assets/icons/user-black.svg" width=15>
+ </h3>
+ 
+  - 👨‍💻 Skilled in **Python**, applying it in practical projects and studies.
+  - 🌱 Currently learning JavaScript (Full Stack) for web development.
+  - 🤓 Studying Systems Analysis and Development at UNIASSELVI RJ.
   - ✉️ gabrielpaschoal53@gmail.com
-
-<p align="center">
-
-  Linguagens que utilizo -
+	
+<!-- My Tech Stack -->
+<h3>
+ <img src="./assets/icons/stack-white.svg" width=17>
+ My Tech Stack
+ <img src="./assets/icons/stack-black.svg" width=20>
+</h3>
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,py,html,css" />
+    <img src="https://skillicons.dev/icons?i=java,js,py,html,css" /><br>
+	<img src="https://skillicons.dev/icons?i=supabase,github,vercel,notion,md" /><br>
   </a>
 </p>
 
@@ -25,28 +67,5 @@
 		<h1>Gabriel M.</h1>
 	</a>
 </div>
-
-Olá👋
-- 👨‍💻 Possuo conhecimento na linguagem **Python**;
-- 🌱 Atualmente estudando Javascript com foco em Full Stack;
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,py,html,css" />
-*"A prática leva à perfeição!"*
-<div style="display: inline_block"><br>
-  <img align="center" alt="Be-Py" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="Be-JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-# 👋 Olá, eu sou ...
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 -->
