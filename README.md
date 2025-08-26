@@ -6,7 +6,11 @@
     Please, leave a star on my README it would truly make my day :)
     GitHub: https://github.com/qxcyll
 -->
-<h1 align="center">Gabriel M.</h1>
+<div>
+	<a href="https://JVLsx.github.io">
+		<h1>Gabriel M.</h1>
+	</a>
+</div>
  
 <div align="justify">
 	
@@ -20,16 +24,14 @@ I’m a Passionate <b>Systems Analysis and Development</b> student at <b>UNIASSE
  - ✉️ Reach me at: **gabrielpaschoal53@gmail.com**
 
 <div align="center">
-
 <h3>
  <img src="./assets/icons/stack-white.svg" width=17>
  My Tech Stack
  <img src="./assets/icons/stack-black.svg" width=20>
 </h3>
-  
+
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,py,html,css" /><br>
-	<img src="https://skillicons.dev/icons?i=supabase,github,vercel,notion,md" /><br>
+    <img src="https://skillicons.dev/icons?i=java,js,py,html,css,supabase,github,vercel,notion,md" /><br>
   </a>
 </p>
 
