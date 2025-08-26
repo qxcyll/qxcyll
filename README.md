@@ -24,18 +24,10 @@ When I turned 21 and entered college, I fully dove into programming.
 Since then, I have been dedicating my time to studying development in depth, with a special focus on `Fullstack Web Development`.  
 Although I study the complete ecosystem, my real strength and the area I enjoy exploring the most is `Front-End`, where I can combine logic, creativity, and design.
 
- <h3>
-  <img src="./assets/icons/bookmark-white.svg" width=15>
-  My Goal 
-  <img src="./assets/icons/bookmark-black.svg" width=15>
- </h3>
-
-To become a Full Stack Developer, building complete applications by combining backend and frontend development, with a strong focus on best practices and continuous learning.
-
 <!-- A Little More About Me -->
  <h3>
   <img src="./assets/icons/user-white.svg" width=15>
-  A Little More About Me 
+  Summary 
   <img src="./assets/icons/user-black.svg" width=15>
  </h3>
  
