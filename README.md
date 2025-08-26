@@ -8,14 +8,6 @@
 -->
 <h1>Gabriel M.</h1>
 
- <h3>
-  <img src="./assets/icons/user-white.svg" width=15>
-  About Me 
-  <img src="./assets/icons/user-black.svg" width=15>
- </h3>
-
-<div>
-
 I’m a student of `Systems Analysis and Development` at the `UNNIASELVI`.  
 My journey in technology started: at the age of 18.
 At 19, I discovered my creative side, which also fueled my passion for interfaces and visual aesthetics.
