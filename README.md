@@ -11,6 +11,8 @@ I’m a Passionate <b>Systems Analysis and Development</b> student at <b>UNIASSE
  - 🤓 Studying **Systems Analysis and Development** at UNIASSELVI RJ.  
  - ✉️ Reach me at: **gabrielpaschoal53@gmail.com**
 
+<div align="center">
+
 <h3>
  <img src="./assets/icons/stack-white.svg" width=17>
  My Tech Stack
@@ -22,6 +24,8 @@ I’m a Passionate <b>Systems Analysis and Development</b> student at <b>UNIASSE
 	<img src="https://skillicons.dev/icons?i=supabase,github,vercel,notion,md" /><br>
   </a>
 </p>
+
+<div>
 
 *"A prática leva à perfeição!"*
 <!--
