@@ -17,7 +17,7 @@
 <div>
 
 I’m a student of `Systems Analysis and Development` at the `UNNIASELVI`.  
-My journey in technology started: at the age of 18.</br>
+My journey in technology started: at the age of 18.
 At 19, I discovered my creative side, which also fueled my passion for interfaces and visual aesthetics.
 
 When I turned 21 and entered college, I fully dove into programming.  
