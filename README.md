@@ -23,7 +23,7 @@ Since then, I have been dedicating my time to studying development in depth, wit
   <img src="./assets/icons/user-black.svg" width=15>
  </h3>
  -->
-  - 👨‍💻 Skilled in **Python**, applying it in practical projects and studies.
+  - 👨‍💻 <big>Skilled in <b>Python</b>, applying it in practical projects and studies.</big> 
   - 🌱 Currently learning JavaScript (Full Stack) for web development.
   - 🤓 Studying Systems Analysis and Development at UNIASSELVI RJ.
   - ✉️ gabrielpaschoal53@gmail.com
