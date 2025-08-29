@@ -10,7 +10,7 @@
  
 <div align="justify">
 	
-I’m a Passionate <b>Systems Analysis and Development</b> student at <b>UNIASSELVI</b>, with a strong interest in technology, design, and problem-solving.
+I’m a Passionate **Systems Analysis and Development** student at **UNIASSELVI**, who loves exploring technology, design, and problem-solving. I’m always learning, improving my skills, and challenging myself to grow as a developer.
 
 </div>
 
