@@ -14,7 +14,7 @@ I’m a Passionate **Systems Analysis and Development** student at **UNIASSELVI*
 
 </div>
 
- - 👨‍💻 Skilled in **Python**, applying it in practical projects and studies.  
+ - 👨‍💻 Skilled in **Python** & **Java**, applying it in practical projects and studies.  
  - 🌱 Currently learning **JavaScript (Full Stack)** for web development.  
  - 🤓 Studying **Systems Analysis and Development** at UNIASSELVI RJ.  
  - ✉️ Reach me at: **gabrielpaschoal53@gmail.com**
