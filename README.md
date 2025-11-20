@@ -27,7 +27,7 @@ I’m a Passionate **Systems Analysis and Development** student at **UNIASSELVI*
 </h3>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,java,py,html,css,supabase,github,vercel,notion,md" /><br>
+    <img src="https://skillicons.dev/icons?i=js,java,kotlin,py,html,css,supabase,github,vercel,notion,md" /><br>
   </a>
 </p>
 
