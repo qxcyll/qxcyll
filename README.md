@@ -11,10 +11,7 @@
 <div align="justify">
 	
 I’m a Passionate `Systems Analysis and Development` student at `Leonardo da Vinci University Center` **(UNIASSELVI)**, who loves exploring technology, design, and problem-solving. I’m always learning, improving my skills, and challenging myself to grow as a developer.
-
 </div>
-
-<h3>🎓 Resume:</h3>
 
  - 👨‍💻 Skilled in **Python** & **Java**, applying it in practical projects and studies.  
  - 🌱 Currently learning **JavaScript (Full Stack)** for web development.  
