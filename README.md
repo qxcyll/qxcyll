@@ -10,7 +10,7 @@
  
 <div align="justify">
 	
-I’m a Passionate `Systems Analysis and Development` student at `Leonardo da Vinci University Center` **(UNIASSELVI)**, who loves exploring technology, design, and problem-solving. I’m always learning, improving my skills, and challenging myself to grow as a developer.
+I’m a `Systems Analysis and Development` student at `Leonardo da Vinci University Center` **(UNIASSELVI)**, who loves exploring technology, design, and problem-solving. I’m always learning, improving my skills, and challenging myself to grow as a developer.
 </div>
 
  - 👨‍💻 Skilled in **Python** & **Java**, applying it in practical projects and studies.  
@@ -18,11 +18,11 @@ I’m a Passionate `Systems Analysis and Development` student at `Leonardo da Vi
  - 🤓 Studying **Systems Analysis and Development** at UNIASSELVI RJ.
  - 🌙 Minimalism enthusiast. 
  
-
-<h3>🔗 Connect with me:</h3>
+<h3>🔗 Want to get in contact?</h3>
 
 - ✉️ Email: **gabrielpaschoal53@gmail.com**
 - 💻 Linkedin: **www.linkedin.com/in/gabriel-medeiros-paschoal**<br>
+
 
 
 <div align="center">
