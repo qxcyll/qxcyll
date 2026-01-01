@@ -6,11 +6,11 @@
     Please, leave a star on my README it would truly make my day :)
     GitHub: https://github.com/qxcyll
 -->
-## Hello! I am Gabriel.
+# Hey There! 👋
  
 <div align="justify">
 	
-I’m a `Systems Analysis and Development` student at `Leonardo da Vinci University Center` **(UNIASSELVI)**, who loves exploring technology, design, and problem-solving. I’m always learning, improving my skills, and challenging myself to grow as a developer.
+**I’m Gabriel M.** - I'm a `Systems Analysis and Development` student at `Leonardo da Vinci University Center` **(UNIASSELVI)**, who loves exploring technology, design, and problem-solving. I’m always learning, improving my skills, and challenging myself to grow as a developer.
 </div>
 
  - 👨‍💻 Skilled in **Python** & **Java**, applying it in practical projects and studies.  
