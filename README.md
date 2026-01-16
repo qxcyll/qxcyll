@@ -23,7 +23,7 @@ I'm a `Systems Analysis and Development` student at `Leonardo da Vinci Universit
 - **✉️ Email:** **gabrielpaschoal53@gmail.com**
 - **💻 Linkedin:** **www.linkedin.com/in/gabriel-medeiros-in**<br>
 
----
+
 
 <div align="center">
 <h3>
