@@ -11,18 +11,19 @@
 <div align="justify">
 	
 I'm a `Systems Analysis and Development` student at `Leonardo da Vinci University Center` **(UNIASSELVI)**, who loves exploring technology, design, and problem-solving. I’m always learning, improving my skills, and challenging myself to grow as a developer.
+
+Currently, I am an **Apprentice** at `Alterdata Software` within the `Suporte Cirrus team`, providing technical support and developing my professional skills.
 </div>
 
  - 👨‍💻 Skilled in **Python** & **Java**, applying it in practical projects and studies.  
  - 🌱 Currently learning **JavaScript (Full Stack)** for web development.  
  - 🤓 Studying **Systems Analysis and Development** at UNIASSELVI RJ.
- - 🌙 Minimalism enthusiast. 
- 
+ - 🌙 Minimalism enthusiast.
+
 <h3>🔗 Want to get in contact?</h3>
 
-- **✉️ Email:** **gabrielpaschoal53@gmail.com**
-- **💻 Linkedin:** **www.linkedin.com/in/gabriel-medeiros-in**<br>
-
+- **✉️ E-mail:** **gabrielpaschoal53@gmail.com**
+- **💻 LinkedIn:** **www.linkedin.com/in/gabriel-medeiros-in**<br>
 
 
 <div align="center">
