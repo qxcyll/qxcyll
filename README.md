@@ -20,10 +20,10 @@ I'm a `Systems Analysis and Development` student at `Leonardo da Vinci Universit
  
 <h3>🔗 Want to get in contact?</h3>
 
-- ✉️ Email: **gabrielpaschoal53@gmail.com**
-- 💻 Linkedin: **www.linkedin.com/in/gabriel-medeiros-paschoal**<br>
+- **✉️ Email:** **gabrielpaschoal53@gmail.com**
+- **💻 Linkedin:** **www.linkedin.com/in/gabriel-medeiros-in**<br>
 
-
+---
 
 <div align="center">
 <h3>
